@@ -1,0 +1,3 @@
+interface:
+  display_name: "上品帮前端开发规范"
+  short_description: "团队前端规范：弹窗 ref.open、高内聚低耦合、按职责组件化与少文件"
